@@ -1,0 +1,12 @@
+- name: berlin
+  country: Germany
+  district: Prenzlauer Berg
+  user: Steven
+- name: paris
+  address: France
+  district: Montmatre
+  user: Yann
+- name: london
+  address: UK
+  district: Picadilly
+  user: Jessica
